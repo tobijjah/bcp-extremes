@@ -1,5 +1,9 @@
 # Past and future weather extremes across Europe
 
+![Past and future heat waves across Europe](hw.svg)
+
+**Figure 1:** Past and future heat waves across Europe.
+
 This repository contains the annual exceedance index data for past and future weather extremes across Europe on NUTS1
 scale.
 The code and an accompanying paper analyzing the impact of this weather extremes on the European agricultural sector on
@@ -80,3 +84,8 @@ Tobias Seydewitz acknowledges funding from the German Federal Ministry of Educat
 [BIOCLIMAPATHS](https://www.pik-potsdam.de/en/output/projects/all/647) project (grant agreement No 01LS1906A) under the
 Axis-ERANET call. The funders had no role in study design, data collection, analysis, decision to publish, or manuscript
 preparation.
+
+![Past heat waves across Europe an animation](hw.gif)
+
+**Figure 2:** Past heat waves across Europe, the animation shows the annual exceedance index of heat waves from
+1981-2020.
