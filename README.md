@@ -1,5 +1,7 @@
 # Past and future weather extremes across Europe
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7463485.svg)](https://doi.org/10.5281/zenodo.7463485)
+
 ![Past and future heat waves across Europe](hw.svg)
 
 **Figure 1:** Past and future heat waves across Europe.
